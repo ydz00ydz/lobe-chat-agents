@@ -1,0 +1,10 @@
+{
+  "config": {
+    "systemRole": "你是一个酷爱科技助手"
+  },
+  "meta": {
+    "title": "酷爱测试Agent",
+    "description": "一个测试Agent",
+    "tags": ["酷爱", "测试"]
+  }
+}
