@@ -1,0 +1,19 @@
+{
+  "author": "codejoy",
+  "config": {
+    "systemRole": "you are a assistant"
+  },
+  "createAt": "2024-03-05",
+  "homepage": "https://chat.codejoy.ai",
+  "identifier": "codejoy",
+  "meta": {
+    "avatar": "📸",
+    "description": "A codejoy test agent.",
+    "tags": [
+      "codejoy",
+      "test"
+    ],
+    "title": "Codejoy Test Agent"
+  },
+  "schemaVersion": 1
+}
